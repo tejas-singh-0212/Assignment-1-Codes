@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int n,j,i,count,flag=0;
+    int n,j,i,count,flag=0;     //Program to print all prime numbers up to N
 	printf("Enter the value of N: ");
 	scanf("%d",&n);
     printf("The prime numbers are: \n");
