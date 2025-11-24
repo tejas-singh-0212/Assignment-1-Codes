@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int a,b,c;
+    int a,b,c;          //Program to find largest of three numbers without using bitwise operators
     printf("Enter first number: ");
     scanf("%d",&a);
     printf("Enter second number: ");
