@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main() 
 {
-    int a, b;
+    int a, b;       //Program to check if one number is multiple of other using ternary operator only
     printf("Enter first number: ");
     scanf("%d", &a);
     printf("Enter second number: ");
