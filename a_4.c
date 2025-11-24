@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    float c, de, cad, ep, maths, avg;
+    float c, de, cad, ep, maths, avg;       //Program for grading system based on average marks of 5 subjects
     printf("Enter marks for subjects (0-100): \n");
     printf("Enter marks for C Programming: ");
     scanf("%f", &c);

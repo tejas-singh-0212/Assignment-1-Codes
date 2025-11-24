@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main() 
 {
-    int n, i, j;
+    int n, i, j;        //Sequential pattern printing program
     int num = 1; 
     printf("Enter the number of rows: ");
     scanf("%d", &n);

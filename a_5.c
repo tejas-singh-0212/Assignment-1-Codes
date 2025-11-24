@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int n;
+    int n;              //Program to print Fizz, Buzz, or FizzBuzz based on divisibility by 3 and 5
     printf("Enter an integer: ");
     scanf("%d", &n);
     if(n%3==0)
